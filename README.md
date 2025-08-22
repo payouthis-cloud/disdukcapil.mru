@@ -22,3 +22,7 @@ Website resmi Dinas Kependudukan dan Pencatatan Sipil Kabupaten Musi Rawas Utara
 ## Cara Menjalankan
 
 1. Website akan tersedia di: `https://payouthis-cloud.github.io/disdukcapil-mru`
+
+## Terakhir Update
+`Tanggal : 22-08-2025`
+`Jam 21:00 Wib`
